@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,go,rust,python,c,c++)](https://skillicons.dev)
+- 🔭 I’m currently working on [![My Skills](https://skillicons.dev/icons?i=solidity,go,rust,python,c,cpp)](https://skillicons.dev)
 
 <!--
 **letsgoexplore/letsgoexplore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
