@@ -1,6 +1,23 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [![My Skills](https://skillicons.dev/icons?i=solidity,go,rust,python,c,cpp)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,go,rust" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab" />
+  </a>
+</p>
+
 
 <!--
 **letsgoexplore/letsgoexplore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
