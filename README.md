@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://letsgoexplore.github.io/">Zhenyu</a>! Let's go EXPLORE! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://zhenyu.me/">Zhenyu</a>! Let's go EXPLORE! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=letsgoexplore.letsgoexplore)
@@ -8,7 +8,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/zhenyu-jason-zhao/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://x.com/JasonZhao404"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://letsgoexplore.github.io/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://zhenyu.me/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 
