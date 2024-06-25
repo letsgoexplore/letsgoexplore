@@ -1,8 +1,8 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://letsgoexplore.github.io/">Zhenyu! Let's go EXPLORE!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://letsgoexplore.github.io/">Zhenyu!</a> Let's go EXPLORE! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=letsgoexplore-letsgoexplore)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=letsgoexplore.letsgoexplore)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <p align='center'>
@@ -46,7 +46,6 @@ me.introduce()
 ![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 
 **Machine Learning and Mathematics:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=6aa6f8)
 
 **Tools and Services:**
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
