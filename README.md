@@ -58,6 +58,7 @@ me.introduce()
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
+![commits](https://raw.githubusercontent.com/letsgoexplore/letsgoexplore/output/github-contribution-grid-snake.svg)
 <!--
 **letsgoexplore/letsgoexplore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
