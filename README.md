@@ -28,7 +28,11 @@ class Engineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
     def introduce(self):
-        print("I thrive on deep dives into complex topics, enjoy sharing my insights, and love collaborating with like-minded individuals towards common goals.")
+        interests = ["thrive on deep dives into complex topics",
+                     "enjoy sharing my insights",
+                     "love collaborating with like-minded individuals towards common goals"]
+        for interest in interests：
+            print("I" + interest)
 
 
 me = Engineer()
