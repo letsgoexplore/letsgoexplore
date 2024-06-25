@@ -50,6 +50,9 @@ me.introduce()
 ![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
 
 **Machine Learning and Mathematics:**
+![TensorFlow](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
+![Pytorch](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
+![Mathlab](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=matlab&logoColor=white&color=6aa6f8)
 
 **Tools and Services:**
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
