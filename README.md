@@ -18,7 +18,7 @@
 class Engineer:
 
     def __init__(self):
-        self.name = "Zhenyu Zhao"
+        self.name = "Jason Zhao"
         self.role = ["PhD@HKUST", "Contract Dev@dappOS", "Researcher@Applied Crypto", "Devotee@Blockchain"]
         self.language_spoken = ["zh_CN", "en_US"]
 
